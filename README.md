@@ -2,9 +2,9 @@
 
 ## Requirements
 
-1. Twitter Account (<a href="https://twitter.com"></a>>)
+1. Twitter Account ("https://twitter.com")
 
-2. Twitter Developer Account (<a href="https://apps.twitter.com"></a>>)
+2. Twitter Developer Account (https://apps.twitter.com)
 
 3. Tweepy (command: pip install tweepy)
 
